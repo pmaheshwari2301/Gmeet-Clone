@@ -27,7 +27,7 @@ Visit the website from this link : https://google-meeting.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/rajarshisg/Google-Meet-Clone.git
+  git clone https://github.com/pmaheshwari2301/Gmeet-Clone.git
 ```
 
 Go to the project directory
